@@ -1,49 +1,102 @@
-# Hi there, I'm Piyush Rauniyar! 👋
+<h1 align="center">Hi 👋, I'm Piyush Rauniyar</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI+Engineering+Enthusiast;Lifelong+Learner;Building+Web+%26+AI+Solutions" alt="Typing SVG" />
+</h3>
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Below is a little bit about me and what I do.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RAUNified&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RAUNified&theme=darkhub&margin-w=5&margin-h=5" alt="trophies" />
+  </a>
+</p>
 
-## About Me
+---
 
-- 🔭 I’m currently working on improving my skills in full-stack development.
-- 🌱 I’m currently learning advanced algorithms and cloud computing.
-- 👯 I’m looking to collaborate on open-source projects.
-- 💬 Ask me about web development, Python, JavaScript, and cloud services.
-- 📫 How to reach me: [Email](piyushrauniyar16@gmail.com) | [LinkedIn](https://www.linkedin.com/in/piyush-rauniyar-2842a7281/)
-- ⚡ Fun fact: I love solving puzzles and playing chess.
+## 🚀 About Me
 
-## My Skills
+- 🔭 Currently improving my **full-stack development** skills and exploring **AI solutions**.
+- 🌱 Learning **advanced algorithms**, **cloud computing**, and **AI model deployment**.
+- 👯 Open to collaborating on **open-source projects** and **innovative AI applications**.
+- 💬 Ask me about **web development**, **Python**, **JavaScript**, **AI basics**, and **cloud services**.
+- 👨‍💻 All my projects are available at **[piyushrauniyar.tech](https://www.piyushrauniyar.tech)**
+- 📫 Reach me at **piyushrauniyar16@gmail.com**
+- ⚡ Fun fact: I enjoy solving puzzles, playing chess, and experimenting with new tech stacks.
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Web Development:** HTML, CSS, 
-- **Databases:** MySQL,
+---
 
-## Projects
+## 🛠 Skills & Tools
 
-Here are some of the projects I've been working on:
+**Languages:**  
+Python | JavaScript | Java | C++ | TypeScript | PHP
 
-### movie-search-application 
-- **Description:** it is movie search applcation <br> it fetch data from php using OMBD API key and store it to MySQL database  
-- **Technologies:**
-Frontend:HTML5/CSS3/JavaScript 
-Backend:PHP
-API Integration: OMDb API
-Database: MySQL
-Server: Apache/phpmyadmin (xaamp)
-- **Repository:** [GitHub Link](https://github.com/RAUNified/movie-search-application.git)
+**Web Development:**  
+HTML5 | CSS3 | React.js | Spring Boot | REST APIs | Node.js
 
-### weather application
-- **Description:** it is a weather search application<br> it fethtch data from php using  Open Weather Map API key and store data up 2 hours only
-- **Technologies:** Frontend:HTML5/CSS3JavaScript 
-Backend:PHP
-API Integration:OpenWeatherMap API
-Database:MySQL 
-Server:Apache/phpmyadmin (xaamp)
-- **Repository:** [GitHub Link](https://github.com/RAUNified/weather-app.git)
+**Databases:**  
+MySQL | MariaDB | PostgreSQL
 
-## GitHub Stats
+**Cloud & DevOps:**  
+AWS | Docker | Kubernetes | Jenkins | Firebase
 
-![RAUNified's GitHub stats](https://github-readme-stats.vercel.app/api?username=RAUNified&show_icons=true&theme=radical)
+**Other Tools & Frameworks:**  
+Unity | Flutter | Figma | Postman | Blender
 
-## Let's Connect!
+<p align="left">
+  <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
+  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
+  <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/></a>
+</p>
 
-Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/piyush-rauniyar-2842a7281/) or [Email](piyushrauniyar16@gmail.com). I'm always open to new opportunities and collaborations!
+---
+
+## 💻 Featured Projects
+
+### 🎬 Movie Search Application
+- **Description:** Fetches movie data using the OMDb API via PHP, stores it in MySQL, and displays results.
+- **Technologies:**  
+  Frontend: HTML5, CSS3, JavaScript  
+  Backend: PHP  
+  API: OMDb API  
+  Database: MySQL  
+  Server: Apache (XAMPP)
+- **Repo:** [View on GitHub](https://github.com/RAUNified/movie-search-application.git)
+
+### 🌦 Weather Application
+- **Description:** Fetches weather data using the OpenWeatherMap API via PHP, stores it for up to 2 hours.
+- **Technologies:**  
+  Frontend: HTML5, CSS3, JavaScript  
+  Backend: PHP  
+  API: OpenWeatherMap API  
+  Database: MySQL  
+  Server: Apache (XAMPP)
+- **Repo:** [View on GitHub](https://github.com/RAUNified/weather-app.git)
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RAUNified&show_icons=true&locale=en&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RAUNified&show_icons=true&locale=en&theme=radical" alt="github stats" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+[![Piyush's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAUNified&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🌐 Let's Connect
+
+- **LinkedIn:** [Piyush Rauniyar](https://www.linkedin.com/in/piyush-rauniyar-2842a7281/)  
+- **Email:** piyushrauniyar16@gmail.com  
+
+---
